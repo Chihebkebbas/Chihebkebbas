@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a second-year Computer Science student at **CERI Avignon, France**. Passionate about **Web & Mobile App Development** and **UI/UX Enthusiast**,  I enjoy creating intuitive and visually appealing user experiences. 
+I'm a second-year Computer Science student at **CERI Avignon, France**. Passionate about **Web & Mobile App Development**  as well as **UI/UX Design**,  I enjoy creating intuitive and visually appealing user experiences. 
 
 📍 Based in **Avignon, France**  
 
