@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @Chihebkebbas!
+# 👋 Hi, I'm Chiheb!
 
 ## 🚀 About Me
 
@@ -7,8 +7,9 @@ I'm a second-year Computer Science student at **CERI Avignon, France**. Passiona
 📍 Based in **Avignon, France**  
 
 💻 Currently working on:
-  - **Dentics**: An online booking system for a dental clinic 🏥  
-  - **BitChest**: A cryptocurrency trading platform 💰  
+  - **Dentics**: An online booking system for a dental clinic   
+  - **BitChest**: A cryptocurrency trading platform
+
 🌱 Currently learning **PHP, Symfony, and Spring Boot**  
 
 ---
@@ -35,8 +36,8 @@ I'm a second-year Computer Science student at **CERI Avignon, France**. Passiona
 ## 📫 Contact Me
 
 💼 [LinkedIn](https://linkedin.com/in/chiheb-eddine-kebbas/)  
-📧 Email: [chiheb.email@example.com](mailto:chihebed.kbs@.com)  
+📧 [Email](mailto:chihebed.kbs@.com)  
 
 ---
 
-⭐️ **Feel free to connect and contribute to my projects!** 🚀
+⭐️ **Welcome to my feed!** 🚀
