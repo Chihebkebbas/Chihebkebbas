@@ -10,7 +10,7 @@ I'm a second-year Computer Science student at **CERI Avignon, France**. Passiona
   - **Dentics**: An online booking system for a dental clinic   
   - **BitChest**: A cryptocurrency trading platform
 
-🌱 Currently learning **PHP, Symfony, and Spring Boot**  
+🌱 Currently learning **PHP, Symfony and Spring Boot**  
 
 ---
 
