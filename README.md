@@ -2,15 +2,15 @@
 
 ## 🚀 About Me
 
-I'm a second-year Computer Science student at **CERI Avignon, France**. Passionate about **Web & Mobile App Development**  as well as **UI/UX Design**,  I enjoy creating intuitive and visually appealing user experiences. 
+I'm a second-year Computer Science student at **CERI Avignon, France**, passionate about **Web and Mobile App Development** and **UI/UX Design**.  
+I thrive on building intuitive, high-quality digital experiences that combine functionality and aesthetics.
 
-📍 Based in **Avignon, France**  
+📍 Based in **Paris, France**
 
-💻 Currently working on:
-  - **Dentics**: An online booking system for a dental clinic   
-  - **BitChest**: A cryptocurrency trading platform
+💻 Projects I'm currently working on:
+- **BitChest**: A modern cryptocurrency trading platform
 
-🌱 Currently learning **PHP, Symfony and Spring Boot**  
+🌱 Expanding my technical stack with **Spring Boot**
 
 ---
 
@@ -20,9 +20,13 @@ I'm a second-year Computer Science student at **CERI Avignon, France**. Passiona
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
 
@@ -33,11 +37,12 @@ I'm a second-year Computer Science student at **CERI Avignon, France**. Passiona
 
 ---
 
-## 📫 Contact Me
+## 📫 Let's Connect
 
 💼 [LinkedIn](https://linkedin.com/in/chiheb-eddine-kebbas/)  
-📧 [Email](mailto:chihebed.kbs@.com)  
+🎨 [Dribbble](https://dribbble.com/kebbaschiheb)  
+📧 [Email](mailto:chihebed.kbs@gmail.com)
 
 ---
 
-⭐️ **Welcome to my feed!** 🚀
+⭐️ **Thanks for visiting my profile! Feel free to connect!** 🚀
