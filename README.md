@@ -30,30 +30,6 @@ I thrive on building intuitive, high-quality digital experiences that combine fu
 
 ---
 
-## 📈 GitHub Stats
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChihebKebbas&theme=radical&margin-w=15&margin-h=15" alt="Chiheb's GitHub Trophies"/>
-</p>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChihebKebbas&show_icons=true&theme=radical" alt="Chiheb's GitHub Stats" />
-</p>
-
-<!-- Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChihebKebbas&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-<!-- GitHub Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ChihebKebbas&theme=radical&hide_border=false" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 📫 Let's Connect
 
 💼 [LinkedIn](https://linkedin.com/in/chiheb-eddine-kebbas/)  
@@ -62,4 +38,4 @@ I thrive on building intuitive, high-quality digital experiences that combine fu
 
 ---
 
-⭐️ **Thanks for visiting my profile! Feel free to connect!** 🚀
+⭐️ **Welcome to my profile!** 
