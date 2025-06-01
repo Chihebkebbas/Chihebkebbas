@@ -5,7 +5,7 @@
 I'm a second-year Computer Science student at **CERI Avignon, France**, passionate about **Web and Mobile App Development** and **UI/UX Design**.  
 I thrive on building intuitive, high-quality digital experiences that combine functionality and aesthetics.
 
-📍 Based in **Paris, France**
+📍 Based in **France**
 
 💻 Projects I'm currently working on:
 - **BitChest**: A modern cryptocurrency trading platform
