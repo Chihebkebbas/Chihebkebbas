@@ -10,7 +10,7 @@ I thrive on building intuitive, high-quality digital experiences that combine fu
 💻 Projects I'm currently working on:
 - **BitChest**: A modern cryptocurrency trading platform
 
-🌱 Expanding my technical stack with **Spring Boot**
+🌱 Expanding my technical stack with **Spring Boot** && **React**
 
 ---
 
