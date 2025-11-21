@@ -29,6 +29,15 @@ I thrive on building intuitive, high-quality digital experiences that combine fu
 
 ---
 
+## 👌 States
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chihebkebbas&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chihebkebbas&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Chihebkebbas&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Chihebkebbas&theme=tokyonight)
+
+---
+
 ## 📫 Let's Connect
 
 💼 [LinkedIn](https://linkedin.com/in/chiheb-eddine-kebbas/)  
