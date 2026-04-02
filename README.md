@@ -8,7 +8,7 @@ I thrive on building intuitive, high-quality digital experiences that combine fu
 📍 Based in **France**
 
 💻 Projects I'm currently working on:
-- **BitChest**: A modern cryptocurrency trading platform
+- **HuslleHard**:  Intelligent platform designed to help me stay disciplined, productive, and motivated in achieving my goals.
 
 🌱 Expanding my technical stack with **Spring Boot** && **React**
 
